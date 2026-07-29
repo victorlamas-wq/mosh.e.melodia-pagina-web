@@ -1,2 +1,2 @@
-# mosh.e.melodia-pagina-web
+Para ter acesso ao Conteúdo do Blog, acesse o arquivo intitulado como: "index.html".
 ...
